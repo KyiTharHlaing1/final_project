@@ -1,0 +1,14 @@
+# Node / Next
+node_modules
+.next
+npm-debug.log*
+yarn-error.log
+
+# Envs
+.env
+.env.local
+**/.env
+**/.env.local
+
+# Docker
+docker-compose.override.yml
