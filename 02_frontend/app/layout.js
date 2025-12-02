@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'My App',
-  description: 'Kyithar 6090059 project',
+  description: 'Kyi Thar Hlaing 6704995',
 };
 
 export default function RootLayout({ children }) {
